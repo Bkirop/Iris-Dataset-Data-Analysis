@@ -91,19 +91,6 @@ Ideas:
 - 📖 Dataset: *Fisher’s Iris dataset (1936)*  
 - 📝 License: MIT (feel free to use & adapt!)  
 
----
-
-## 🖼️ Example Visuals
-
-Here are some plots you’ll find in this repo:
-
-🔥 **Correlation Heatmap**  
-![Correlation Heatmap](iris/iris_correlation_heatmap.png)  
-
-🖼️ **Comprehensive Analysis**  
-![Comprehensive Analysis Plot](iris/iris_comprehensive_analysis.png)  
-
----
 
 ✨ Thanks for stopping by! 🌸  
 👩‍💻 Made with ❤️ by **Brian Kirop**
